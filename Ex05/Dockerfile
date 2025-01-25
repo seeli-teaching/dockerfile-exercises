@@ -8,4 +8,4 @@ ENV MY_CAT=Fluffy
 
 ENV MY_COLOR=red MY_FOOD=Thai
 
-ENTRYPOINT ["env"]
+CMD ["env"]
